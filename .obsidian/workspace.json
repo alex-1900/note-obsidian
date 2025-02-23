@@ -11,14 +11,17 @@
             "id": "27c759b794660fa5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "未命名.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "lucide-layout-dashboard",
+              "title": "未命名"
             }
           }
         ]
@@ -177,5 +180,9 @@
     }
   },
   "active": "27c759b794660fa5",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "README.md",
+    "未命名.canvas",
+    "学习"
+  ]
 }
