@@ -11,17 +11,14 @@
             "id": "27c759b794660fa5",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "未命名.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "未命名"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -179,10 +176,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "27c759b794660fa5",
+  "active": "1d38304877830f89",
   "lastOpenFiles": [
-    "README.md",
     "未命名.canvas",
+    "README.md",
     "学习"
   ]
 }
