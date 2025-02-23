@@ -1,1 +1,1 @@
-# note-obsidian
+# 公开笔记仓库
